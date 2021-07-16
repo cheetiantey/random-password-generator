@@ -1,0 +1,24 @@
+{
+  "name": "random-password-generator",
+  "version": "1.0.0",
+  "description": "Simple random password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheetiantey/random-password-generator.git"
+  },
+  "author": "Chee Tey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheetiantey/random-password-generator/issues"
+  },
+  "homepage": "https://github.com/cheetiantey/random-password-generator#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.0.0"
+  }
+}
