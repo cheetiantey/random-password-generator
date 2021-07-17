@@ -16,10 +16,8 @@ Options:
   
 | Syntax      | Description |
 | ----------- | ----------- |
-| -V, --version      | Title       |
-| -l, --length <number>   | Text        |
-| -s, --save   | Text        |
-| -l, --length <number>   | Text        |
-| -nn, --no-numbers   | Text        |
-| -ns, --no-symbols   | Text        |
-| -ns, --no-symbols   | Text        |
+| -V, --version      | output the version number       |
+| -l, --length <number>   | length of password (default: "8")        |
+| -s, --save   | save password to passwords.txt        |
+| -nn, --no-numbers   | remove symbols        |
+| -ns, --no-symbols   | display help for command        |
