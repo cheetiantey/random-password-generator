@@ -12,5 +12,5 @@ Options:
 | -V, --version      | output the version number       |
 | -l, --length <number>   | length of password (default: "8")        |
 | -s, --save   | save password to passwords.txt        |
-| -nn, --no-numbers   | remove symbols        |
-| -ns, --no-symbols   | display help for command        |
+| -nn, --no-numbers   | remove numbers        |
+| -ns, --no-symbols   | remove symbols        |
